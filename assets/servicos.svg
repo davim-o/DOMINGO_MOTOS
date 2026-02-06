@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#0f172a"/>
+  <circle cx="260" cy="320" r="140" fill="#1f2937" stroke="#f6c200" stroke-width="6"/>
+  <circle cx="600" cy="420" r="140" fill="#1f2937" stroke="#f6c200" stroke-width="6"/>
+  <circle cx="940" cy="320" r="140" fill="#1f2937" stroke="#f6c200" stroke-width="6"/>
+  <text x="600" y="640" text-anchor="middle" fill="#e5e7eb" font-family="Arial, sans-serif" font-size="32">Serviços especializados</text>
+</svg>
